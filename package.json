@@ -1,0 +1,28 @@
+{
+  "name": "tdd-study-project",
+  "version": "1.0.0",
+  "description": "Test-Driven-Development에 대한 학습을 위한 저장소입니다.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10000001a/tdd-study-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10000001a/tdd-study-project/issues"
+  },
+  "homepage": "https://github.com/10000001a/tdd-study-project#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "node-mocks-http": "^1.11.0",
+    "supertest": "^6.2.2"
+  }
+}
